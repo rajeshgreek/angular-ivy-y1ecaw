@@ -1,0 +1,13 @@
+* {
+  font-family: Arial, Geneva, Tahoma, sans-serif;
+  line-height: 1.75;
+}
+ol {
+  font-size: 14px;
+}
+i {
+  color: rgb(7, 94, 105);
+}
+code {
+  font-family: "Courier New", Courier, monospace;
+}
